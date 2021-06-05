@@ -1,8 +1,8 @@
 body {
-	background-color: black;
 	font-family: Verdana;
 	margin: 30px;
-	font-color: red;
+	background-color: black;
+ 	color: red;
 }
 
 .button {
