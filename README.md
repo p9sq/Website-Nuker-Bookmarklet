@@ -3,6 +3,8 @@ A bookmarklet used to nuke sites of your choice<br>
 -
 *Changes aren't saved publicly* <br> *Changes are only visible on the device you are running the `JavaScript` code on* - ~Refresh the page to revert the changes.~
 
+**Website Design Inspiration**: [addCss Bookmarklet](https://rocktronica.github.io/Add-CSS-Bookmarklet/)
+
 **Link**: [Click Me](https://p9sq.github.io/Website-Nuker-Bookmarklet/)
 
 **Example**:
