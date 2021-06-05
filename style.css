@@ -1,13 +1,14 @@
 body {
-	background-color: lightgray;
+	background-color: black;
 	font-family: Verdana;
 	margin: 30px;
+	font-color: red;
 }
 
 .button {
 	margin: 5px 0 0 0;
- 	background-color: gray;
- 	color: white;
+ 	background-color: red;
+ 	color: black;
  	padding: 1px 20px;
  	text-align: center;
  	text-decoration: none;
