@@ -7,5 +7,5 @@ A bookmarklet used to nuke sites of your choice<br>
 
 **Link**: [Click Me](https://p9sq.github.io/Website-Nuker-Bookmarklet/)
 
-**Example**:
+**Results**:
 ![](https://i.gyazo.com/bf78a5c9b55e0ff554597992b998cba2.png)
